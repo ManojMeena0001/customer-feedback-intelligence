@@ -1,0 +1,4 @@
+review_id,source,text,rating,timestamp,platform
+1,app,The app is crashing on login,1,2025-11-28 12:30,android
+2,app,Loved the new UI update!,5,2025-11-28 13:10,ios
+3,app,"Too many ads, please reduce",3,2025-11-28 14:05,android

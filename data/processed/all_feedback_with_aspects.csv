@@ -1,0 +1,17 @@
+review_id,source,text,rating,timestamp,branch,sender,platform,clean_text,topic,aspect
+1.0,google,Delivery was 40 minutes late and the food was cold.,2.0,2025-11-20 19:42,Indrapuri,,,delivery was 40 minutes late and the food was cold.,-1,delivery
+2.0,google,Amazing pizza! Super fresh and tasty. Loved it.,5.0,2025-11-21 13:15,MP Nagar,,,amazing pizza! super fresh and tasty. loved it.,-1,taste
+3.0,google,The app kept crashing while placing the order. Very frustrating.,1.0,2025-11-19 20:10,Kolar Road,,,the app kept crashing while placing the order. very frustrating.,-1,app_issue
+4.0,google,Food quality is excellent but packaging could be better.,4.0,2025-11-18 18:30,Arera Colony,,,food quality is excellent but packaging could be better.,-1,taste
+5.0,google,Delivery boy was polite but order arrived late.,3.0,2025-11-17 21:45,Kolar Road,,,delivery boy was polite but order arrived late.,-1,delivery
+6.0,google,Worst experience ever. Wrong order delivered!,1.0,2025-11-16 14:00,MP Nagar,,,worst experience ever. wrong order delivered!,-1,other
+7.0,google,Loved the service. Quick delivery and nice behaviour.,5.0,2025-11-22 12:10,Indrapuri,,,loved the service. quick delivery and nice behaviour.,-1,delivery
+8.0,google,Average taste. Expected better for this price.,3.0,2025-11-21 16:25,Arera Colony,,,average taste. expected better for this price.,-1,taste
+9.0,google,The restaurant didnt respond to my queries. Poor support.,2.0,2025-11-20 17:50,Kolar Road,,,the restaurant didnt respond to my queries. poor support.,-1,response
+10.0,google,Super fast delivery! Got my food in 15 minutes.,5.0,2025-11-19 11:40,MP Nagar,,,super fast delivery! got my food in 15 minutes.,-1,delivery
+,whatsapp,Delivery was 40 minutes late,,2025-11-28 19:23:00,,Ravi,,delivery was 40 minutes late,-1,delivery
+,whatsapp,"Okay, sorry",,2025-11-28 19:24:00,,Me,,"okay, sorry",-1,other
+1.0,email,The delivery was slow,,2025-11-29 18:03,,customer@example.com,,the delivery was slow,-1,delivery
+1.0,app,The app is crashing on login,1.0,2025-11-28 12:30,,,android,the app is crashing on login,-1,app_issue
+2.0,app,Loved the new UI update!,5.0,2025-11-28 13:10,,,ios,loved the new ui update!,-1,app_issue
+3.0,app,"Too many ads, please reduce",3.0,2025-11-28 14:05,,,android,"too many ads, please reduce",-1,app_issue

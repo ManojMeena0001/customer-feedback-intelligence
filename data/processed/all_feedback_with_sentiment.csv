@@ -1,0 +1,17 @@
+review_id,source,text,rating,timestamp,branch,sender,platform,sentiment,sentiment_score,clean_text
+1.0,google,Delivery was 40 minutes late and the food was cold.,2.0,2025-11-20 19:42,Indrapuri,,,NEGATIVE,0.9995924830436708,delivery was 40 minutes late and the food was cold.
+2.0,google,Amazing pizza! Super fresh and tasty. Loved it.,5.0,2025-11-21 13:15,MP Nagar,,,POSITIVE,0.9998884201049804,amazing pizza! super fresh and tasty. loved it.
+3.0,google,The app kept crashing while placing the order. Very frustrating.,1.0,2025-11-19 20:10,Kolar Road,,,NEGATIVE,0.998994767665863,the app kept crashing while placing the order. very frustrating.
+4.0,google,Food quality is excellent but packaging could be better.,4.0,2025-11-18 18:30,Arera Colony,,,POSITIVE,0.9506192207336426,food quality is excellent but packaging could be better.
+5.0,google,Delivery boy was polite but order arrived late.,3.0,2025-11-17 21:45,Kolar Road,,,NEGATIVE,0.981481909751892,delivery boy was polite but order arrived late.
+6.0,google,Worst experience ever. Wrong order delivered!,1.0,2025-11-16 14:00,MP Nagar,,,NEGATIVE,0.9998074173927308,worst experience ever. wrong order delivered!
+7.0,google,Loved the service. Quick delivery and nice behaviour.,5.0,2025-11-22 12:10,Indrapuri,,,POSITIVE,0.9998605251312256,loved the service. quick delivery and nice behaviour.
+8.0,google,Average taste. Expected better for this price.,3.0,2025-11-21 16:25,Arera Colony,,,NEGATIVE,0.99660986661911,average taste. expected better for this price.
+9.0,google,The restaurant didnt respond to my queries. Poor support.,2.0,2025-11-20 17:50,Kolar Road,,,NEGATIVE,0.9997615218162536,the restaurant didnt respond to my queries. poor support.
+10.0,google,Super fast delivery! Got my food in 15 minutes.,5.0,2025-11-19 11:40,MP Nagar,,,NEGATIVE,0.6106572151184082,super fast delivery! got my food in 15 minutes.
+,whatsapp,Delivery was 40 minutes late,,2025-11-28 19:23:00,,Ravi,,NEGATIVE,0.9859155416488647,delivery was 40 minutes late
+,whatsapp,"Okay, sorry",,2025-11-28 19:24:00,,Me,,NEGATIVE,0.9986340403556824,"okay, sorry"
+1.0,email,The delivery was slow,,2025-11-29 18:03,,customer@example.com,,NEGATIVE,0.9997292160987854,the delivery was slow
+1.0,app,The app is crashing on login,1.0,2025-11-28 12:30,,,android,NEGATIVE,0.9986380934715272,the app is crashing on login
+2.0,app,Loved the new UI update!,5.0,2025-11-28 13:10,,,ios,POSITIVE,0.9997321963310242,loved the new ui update!
+3.0,app,"Too many ads, please reduce",3.0,2025-11-28 14:05,,,android,NEGATIVE,0.9994970560073853,"too many ads, please reduce"
